@@ -1,0 +1,39 @@
+{
+  "version": "v13.0_76feat",
+  "timestamp": "2026-04-10 16:33:14",
+  "model_scores": {
+    "RF(150,bal)": 100.0,
+    "ET(120,bal)": 100.0,
+    "ET2(100)": 100.0,
+    "MLP(256-128)": 100.0,
+    "MLP2(128-64)": 99.71,
+    "STACKED_META": 100.0,
+    "FINAL": 100.0
+  },
+  "final_accuracy": 100.0,
+  "n_signals": 38,
+  "n_features": 76,
+  "n_classes": 20,
+  "per_class_f1": {
+    "IDLE": 100.0,
+    "FOCUSED": 100.0,
+    "DECIDING": 100.0,
+    "STRESSED": 100.0,
+    "CURIOUS": 100.0,
+    "CONFIDENT": 100.0,
+    "BORED": 100.0,
+    "ALERT": 100.0,
+    "CONFUSED": 100.0,
+    "ENGAGED": 100.0,
+    "THINKING": 100.0,
+    "DROWSY": 100.0,
+    "EXCITED": 100.0,
+    "ANXIOUS": 100.0,
+    "CONTEMPLATIVE": 100.0,
+    "EMPATHETIC": 100.0,
+    "SKEPTICAL": 100.0,
+    "DETERMINED": 100.0,
+    "RELIEVED": 100.0,
+    "SURPRISED": 100.0
+  }
+}

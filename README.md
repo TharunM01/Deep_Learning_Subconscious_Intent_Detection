@@ -2,8 +2,8 @@
 
 Real-time webcam-only system for classifying 20 psychological intent states from ocular micro-behaviour signals, using a stacked meta-learning architecture.
 
-**Author:** Tharun M
-**Paper (preprint):** [add your Zenodo DOI link here once published]
+   Author: Tharun M
+   Paper (preprint): https://doi.org/10.5281/zenodo.22847489
 
 ## Contents
 - `SubConscious Intent Detection/intent_detection_v13.py` — main system script
